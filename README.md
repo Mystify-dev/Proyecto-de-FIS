@@ -1,7 +1,4 @@
 # Proyecto-de-FIS
 Proyecto escolar de la materia de Fundamentos de Ingeniería en Software 
 
-<h2>Aquí podras encontrar la documentación del proyeto</h2>
-<p>hola mundo</p>
-<h2>Aquí podras encontrar la documentación del proyeto</h2>
-<p>hola mundo <a>www.facebook.com</a></p>
+<p>La intención de este proyecto es crear una pagina web funcional para la venta y consulta de boletos de la linea de segunda clase de Autobuses del Oriente, debido a que se detecto una necesidad por parte de los alumnos "foraneos" que frecuentan estos servicios pero no cuentan con alguna herramienta para revisar horarios de salida y donde poder comprar su boletos de autobús.</p>
