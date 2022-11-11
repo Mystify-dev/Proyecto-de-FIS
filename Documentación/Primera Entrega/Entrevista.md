@@ -7,9 +7,9 @@
 <p>Al aceptar su propuesta, nos reunimos con él tres días después, 20 de septiembre, para discutir más a fondo lo que requiere para su página y cómo trabajaríamos en ella. Se establecieron algunas bases de las funcionalidades que ésta tendría, como:</p><br>
 
 <p>
-●	Poder comprar los boletos con pago en línea
-●	Acceder a horarios y destinos en tiempo real, con actualizaciones
-●	El diseño de la página sería en relación a el diseño ya establecido del logo y los camiones de la compañía
+●	Poder comprar los boletos con pago en línea<br>
+●	Acceder a horarios y destinos en tiempo real, con actualizaciones<br>
+●	El diseño de la página sería en relación a el diseño ya establecido del logo y los camiones de la compañía<br>
 ●	Fácil de navegar y con una interfaz sencilla
 
 </p><br>
