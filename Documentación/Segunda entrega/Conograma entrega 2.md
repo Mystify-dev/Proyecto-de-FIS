@@ -1,0 +1,1 @@
+![Cronograma actualizado de la segunda entrega](./Imagenes/Cronograma_segunda_entrega.png)

@@ -1,0 +1,1 @@
+![Captura de pantalla de la herramienta JIRA](./Imagenes/Avance_jira.png)
