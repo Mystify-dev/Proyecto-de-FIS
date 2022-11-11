@@ -1,4 +1,4 @@
-#Bitácora del proyecto (Se incluye desde el 17 de septiembre al 5 de noviembre del 2022)
+<h1>Bitácora del proyecto (Se incluye desde el 17 de septiembre al 5 de noviembre del 2022)</h1>
 
 ##17 de septiembre del 2022
 Primer contacto con nuestro cliente, el dueño de Autobuses del Oriente, se acercó al líder del equipo para hacer la petición de una herramienta para agilizar los viajes en autobús.
