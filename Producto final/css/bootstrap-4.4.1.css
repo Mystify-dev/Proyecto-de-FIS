@@ -10217,6 +10217,37 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 
+.disponibles{
+  display: flex;
+}
+
+.horario{
+  width: 70%;
+}
+
+.tarjetas{
+  display: flex;
+  
+}
+
+.viaje{
+  display: flex;
+  flex-direction: column;
+}
+.informacion{
+  margin: 0;
+  padding: 0;
+}
+
+.viaje a{
+  padding: 0;
+
+}
+
+
+
+
+
 @media print {
   *,
   *::before,
