@@ -57,75 +57,58 @@
           <div class="contenedorform">
 
             <div class="grupoform"><!--Elemento texto-->
-              <input type="text" id="Nombre" class="forminput">
+              <input type="text" id="Nombre" class="forminput" placeholder=" ">
               <label for="nombre" class="formlabel">Nombre:</label>
               <span class="formline"></span>
             </div>
             <div class="grupoform"><!--Elemento telefono-->
-              <input type="tel" id="Telefono" class="forminput">
-              <label for="telefono" class="formlabel">Número telefónico: </label>
-              <span class="formline"></span>
-            </div>
-            <div class="grupoform"><p>Método de obtención del boleto</p><!--Elemento texto-->
-              <input type="tel" id="Telefono" class="forminput">
+              <input type="tel" id="Telefono" class="forminput" placeholder=" ">
               <label for="telefono" class="formlabel">Número telefónico: </label>
               <span class="formline"></span>
             </div>
             
-            <div class="grupoform radio" ><!--Elemento texto-->
-              <input type="radio" id="Recarga de tarjeta" class="forminput">
-              <label for="regargatarjeta" class="formlabel">Recarga de tarjeta AhorroBus </label>
-              <span class="formline"></span>
-            </div>
-            <div class="grupoform radio" ><!--Elemento texto-->
-              <input type="radio" id="impresión" class="forminput">
-              <label for="impresión" class="formlabel">Boleto para impresión </label>
-              <span class="formline"></span>
-            </div>
-
-            <div class="grupoform">
-              <select name="Origen" id="Origen" class="selectinput">
-                <option value=""></option>
-                <option value="">Valladolid</option>
-                <option value="">Cancun</option>
-                <option value="">Tizímin</option>
-                <option value="">Playa del carmen</option>
-              </select>
-              <label for="name" class="labelform">Origen</label>
-              <span class="lineaform"></span>
-
-            </div>
-
-
-            <div class="grupoform">
-              <input type="">
-
-            </div>
             
-            <div class="grupoform">
-              <select name="Destino" id="Destino" class="selectinput">
-                <option value=""></option>
-                <option value="">Valladolid</option>
-                <option value="">Cancun</option>
-                <option value="">Tizímin</option>
-                <option value="">Playa del carmen</option>
-              </select>
-              <label for="name" class="labelform">Destino</label>
-              <span class="lineaform"></span>
-
+            <br><p>Introduzca su tarjeta AhorroBus en caso de contar con ella</p>
+            
+            <div class="grupoform"><!--Elemento número de tarjeta AhorroBus-->
+              <input type="number" id="tarahorro" name="tarahorro" class="forminput" placeholder=" ">
+              <label for="tarahorro" class="formlabel">Número de su tarjeta AhorroBus: </label>
+              <span class="formline"></span>
             </div>
 
-            <div class="grupoform">
-              <input type="datetime-local" name="fechayhora" id="fechayhora" class="selectinput"><br>
-              <label for="name" class="labelform">Fecha y hora</label>
-              <span class="lineaform"></span>
+           
 
+            
+            <br><p>Información de la tarjeta de débito/Crédito</p>
+            
+          
+            <div class="grupoform"><!--Elemento número de tarjeta AhorroBus-->
+              <input type="text" id="titular" name="titular" class="forminput" placeholder=" ">
+              <label for="titular" class="formlabel">Titular de la tarjeta</label>
+              <span class="formline"></span>
+            </div>
+            <div class="grupoform"><!--Elemento número de tarjeta crédito/débito-->
+              <input type="number" id="tar" name="tar" class="forminput" placeholder=" ">
+              <label for="tar" class="formlabel">Número de tarjeta de crédito/débito </label>
+              <span class="formline"></span>
+            </div>
+            <div class="grupoform"><!--Elemento número de tarjeta AhorroBus-->
+              <input type="number" id="cv" name="cv" class="forminput" placeholder=" ">
+              <label for="cv" class="formlabel">CV</label>
+              <span class="formline"></span>
+            </div>
+            <div class="grupoform"><!--Elemento número de tarjeta AhorroBus-->
+              <input type="date" id="Caducidad" name="Caducidad" class="forminput" placeholder=" ">
+              <label for="Caducidad" class="formlabel">Vencimiento</label>
+              <span class="formline"></span>
             </div>
 
-            <!--<input type="submit" class="submitform" value="Buscar horarios">-->
-            <div class="row container ">
+            
+
+            <input type="submit" class="formsubmit" value="Comprar">
+            <!--<div class="row container ">
               <div class="col-sm-4 col-auto mx-auto"> <a class="btn btn-block btn-lg btn-success" href="seleccionar.html" title="" style="text-align: center;">Horarios</a> </div>
-            </div>
+            </div>-->
             
 
           </div>
